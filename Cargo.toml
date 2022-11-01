@@ -1,0 +1,10 @@
+[package]
+name = "esdump"
+version = "0.1.0"
+edition = "2021"
+description = "esdump is a tool for  forwarding"
+homepage = "https://github.com/yi-net"
+repository = "https://github.com/yi-net/yi"
+license = "MIT"
+
+[dependencies]
