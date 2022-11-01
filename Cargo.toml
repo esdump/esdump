@@ -2,9 +2,9 @@
 name = "esdump"
 version = "0.1.0"
 edition = "2021"
-description = "esdump is a tool for  forwarding"
-homepage = "https://github.com/yi-net"
-repository = "https://github.com/yi-net/yi"
+description = "esdump is a tool for backup and restore elasticsearch indices"
+homepage = "https://github.com/esdump"
+repository = "https://github.com/esdump/esdump"
 license = "MIT"
 
 [dependencies]
